@@ -16,7 +16,7 @@
 > * Clustering: coming soon 
 > * Association Rules: coming soon
 
-## Recommend (free) materials for Data Science
+## Recommended (free) materials for Data Science
 * [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) - I found the courses very useful and easy to follow. I specially suggest Problem Framing course.
 * [StatQuest YouTube Channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - If you really want to understand (and apply) statistics and ML concepts, go there.
 * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/) - It shows not only technical aspects, but also project mgt, product design and business insights on how to succeed on AI systems. Guest lectures presentations showcase practical examples in real world.
