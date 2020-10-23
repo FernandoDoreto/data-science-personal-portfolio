@@ -1,6 +1,6 @@
 # Welcome!
 
-* Welcome to my personal Data Science portfolio! :rocket: :wave: 
+* Welcome to my personal Data Science portfolio!
 * Here you're going to find **(1)** my latest personal projects and **(2)** recommended (free) materials for learning and applying Data Science.
 
 ## Professional Summary
@@ -11,10 +11,10 @@
 ## Projects Portfolio
 > NOTE: when requested, both username and password are: doreto
 > * Regression: xxx
-> * Binary Classification: coming soon :construction:
-> * Classification: coming soon :construction:
-> * Clustering: coming soon :construction:
-> * Association Rules: coming soon :construction:
+> * Binary Classification: coming soon 
+> * Classification: coming soon
+> * Clustering: coming soon 
+> * Association Rules: coming soon
 
 ## Recommend (free) materials for Data Science
 * [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) - I found the courses very useful and easy to follow. I specially suggest Problem Framing course.
