@@ -11,13 +11,13 @@
 
 ## Projects Portfolio
 * **NOTE**: when requested, both username and password are: **doreto**
----
+
 > * **Regression**: ML solution to predict rental bikes levels based on weather and seasonal information. Learn how hour, season, xxxxx can help Operations and Marketing teams to discover relevant insights.
 > * **Binary Classification**: coming soon 
 > * **Multiclass Classification**: coming soon
 > * **Clustering**: coming soon 
 > * **Association Rules**: coming soon
----
+
 * The projects include the following sections: (1) Project Summary, explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect target predictions; and (5) ML Experiment Mgt: compares performance among different models.
 
 ## Recommended (free) materials for Data Science
