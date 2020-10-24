@@ -10,8 +10,8 @@
   * It doesn't matter if your technology is based on TensorFlow latest capabilities or on multiple Excel spreadsheets, if it's (1) integrated seamlessly with existing business processes and (2) reveals un-obvious/relevant insights, it worthed. 
 
 ## Projects Portfolio
-> **NOTE**: when requested, both username and password are: **doreto**
-> * The projects include the following sections: (1) Project Summary, explaining the dataset, describing the problem to be solved and business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understand model performance and how features effect target predictions; and (5) ML Experiment Mgt: compare performance among different models 
+* **NOTE**: when requested, both username and password are: **doreto**
+* The projects include the following sections: (1) Project Summary, explaining the dataset, describing the problem to be solved and business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understand model performance and how features effect target predictions; and (5) ML Experiment Mgt: compare performance among different models 
 ---
 > * **Regression**: ML solution to predict rental bikes levels based on weather and seasonal information. Learn how hour, season, xxxxx can help Operations and Marketing teams to discover relevant insights.
 > * **Binary Classification**: coming soon 
