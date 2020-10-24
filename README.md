@@ -1,8 +1,8 @@
 #  Welcome to my personal portfolio!
 
 * Here you're going to find:
-> * my latest **personal projects** and
-> * recommended (free) materials for **learning and applying Data Science**.
+> * My latest **personal projects** and
+> * Recommended (free) materials for **learning and applying Data Science**.
 
 ## Professional Summary
 * I have 9-year experience, combined, in Data Analytics, B2B Sales, and Software Development. Feel welcome to reach me at [LinkedIn](https://www.linkedin.com/in/fernandodoreto/).
@@ -11,7 +11,7 @@
 
 ## Projects Portfolio
 * **NOTE**: when requested, both username and password are: **doreto**
-* The projects include the following sections: (1) Project Summary, explaining the dataset, describing the problem to be solved and business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understand model performance and how features effect target predictions; and (5) ML Experiment Mgt: compare performance among different models 
+* The projects include the following sections: (1) Project Summary, explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect target predictions; and (5) ML Experiment Mgt: compares performance among different models.
 
 > * **Regression**: ML solution to predict rental bikes levels based on weather and seasonal information. Learn how hour, season, xxxxx can help Operations and Marketing teams to discover relevant insights.
 > * **Binary Classification**: coming soon 
