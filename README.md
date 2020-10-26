@@ -12,7 +12,7 @@
 ## Projects Portfolio
 * **NOTE**: when requested, both username and password are: **doreto**
 
-> * **Regression**: ML solution to predict rental bikes levels based on weather and seasonal information. Learn how hour, season, xxxxx can help Operations and Marketing teams to discover relevant insights.
+> * **Regression**: ML solution to predict rental bikes levels based on weather and seasonal information. Learn how hour and temperature can affect rental bikes levels. The outcomes can help Operations and Marketing teams to discover relevant insights. [Click here](www.github.com)
 > * **Binary Classification**: coming soon 
 > * **Multiclass Classification**: coming soon
 > * **Clustering**: coming soon 
