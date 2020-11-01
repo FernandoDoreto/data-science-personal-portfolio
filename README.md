@@ -10,7 +10,7 @@
   * It doesn't matter if your technology is based on TensorFlow latest capabilities or on multiple Excel spreadsheets, if it's (1) integrated seamlessly with existing business processes and (2) reveals un-obvious/relevant insights, it worthed. 
 
 ## Projects Portfolio
-* **NOTE**: when requested, both username and password are: **doreto**
+* **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so App's boot time might take a few seconds.
 
 > * **Regression**: ML solution to predict rental bike levels based on weather and seasonal information. Learn how hour and temperature can affect rental bike levels. The outcomes can help Operations and Marketing teams to discover relevant insights. [Click here](https://doreto-regression.herokuapp.com)
 > * **Binary Classification**: coming soon 
