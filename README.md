@@ -13,7 +13,7 @@
 * **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so boot time might take a few seconds.
 
 > * **Regression**: ML solution to predict rental bike levels based on weather and seasonal information. Learn how hour and temperature can affect rental bike levels. The outcomes can help Operations and Marketing teams to discover relevant insights. [Click here](https://doreto-regression.herokuapp.com)
-> * **Binary Classification**: coming soon 
+> * **Binary Classification**: ML soultion to classify a breast mass sample diagnosis as malignant or benign. Learn how worst radius, worst concavity, mean concave points affect malignant and benign diagnostic. [Click here](https://doreto-binary-clf.herokuapp.com/)
 > * **Multiclass Classification**: coming soon
 > * **Clustering**: coming soon 
 > * **Association Rules**: coming soon
