@@ -12,9 +12,9 @@
 ## Projects Portfolio
 * **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so boot time might take a few seconds.
 
-> * **Regression**: ML solution to predict rental bike levels based on weather and seasonal information. Learn how hour and temperature can affect rental bike levels. The outcomes can help Operations and Marketing teams to discover relevant insights. [Click here](https://doreto-regression.herokuapp.com)
-> * **Binary Classification**: ML soultion to classify a breast mass sample diagnosis as malignant or benign. Learn how the main features affect malignant/benign diagnostic; and check how the system is able to detect when input data is in a range where the model has previsouly misclassified during the training/testing phase; helping the user to make more educated decision. [Click here](https://doreto-binary-clf.herokuapp.com/)
-> * **Multiclass Classification**: coming soon
+> * **Regression**: Predict rental bike levels based on weather and seasonal information. Learn how hour and temperature can affect rental bike levels. The outcomes can help Operations and Marketing teams to discover relevant insights. [Click here](https://doreto-regression.herokuapp.com)
+> * **Binary Classification**: Classify a breast mass sample diagnosis as malignant or benign. Learn how the main features affect malignant/benign diagnostic; and check how the system is able to detect when input data is in a dubious range; helping the user to make more educated decision. [Click here](https://doreto-binary-clf.herokuapp.com/)
+> * **Multiclass Classification**: Data driven decision for effective pricing strategy: how to determine the price range for a new mobile brand supplier? What are the main variables that affect price range and how do they interact? [Click here](https://doreto-multi-clf.herokuapp.com/)
 > * **Clustering**: coming soon 
 > * **Association Rules**: coming soon
 
