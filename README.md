@@ -16,9 +16,11 @@
 > * **Binary Classification**: Classify a breast mass sample diagnosis as malignant or benign. Learn how the main features affect malignant/benign diagnostic; and check how the system is able to detect when input data is in a dubious range; helping the user to make more educated decision. [Click here](https://doreto-binary-clf.herokuapp.com/)
 > * **Multiclass Classification**: Data driven decision for effective pricing strategy: how to determine the price range for a new mobile brand supplier? What are the main variables that affect price range and how do they interact? [Click here](https://doreto-multi-clf.herokuapp.com/)
 > * **Clustering**: coming soon 
+> * **Time Series**: coming soon 
+> * **Recommender Systems**: coming soon 
 > * **Association Rules**: coming soon
 
-* The projects include the following sections: (1) Project Summary: explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect target predictions; and (5) ML Experiment Mgt: compares performance among different models.
+* The projects include the following sections: (1) Project Summary: explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect predictions; and (5) ML Experiment Mgt: compares performance among different models.
 
 ## Recommended (free) materials for Data Science
 * [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) - I found the courses very useful and easy to follow. I specially suggest Problem Framing course.
@@ -27,3 +29,4 @@
 * All Udemy courses from [Soledad G.](https://www.udemy.com/user/soledad-galli/) and [Christopher S.](https://www.udemy.com/user/christopher-samiullah/) - It's not free of charge, but Udemy offers discounts very often. It gave me the practical foundation for ML systems (create and deploy ML pipeline, unit test, logging, versioning, monitoring), it helps you to understand how to go from Research (Jupyter notebook) to Production. It worths to visit their [site](https://www.trainindata.com/) as well, great practical content. 
 * [Machine Learning at Berkeley](https://ml.berkeley.edu/blog/tag/crash-course) - It offers a great technical foundation in ML.
 * This bullet isn't a course recommendation, but more a professional suggestion: there might arrive a moment where you have to show your project's progress/conclusion, or even share an idea with the team. An interactive web app / web dashboard comes in hand. If you use Python, you could try [Streamlit](https://www.streamlit.io/). If you prefer R, you could try [Shiny](https://shiny.rstudio.com/). There are plenty of tutorials/references available on GitHub, YouTube, Stack Overflow etc. Ah, remember that ideally when you deploy your web-apps, they should be authenticated.
+* Just complementing the previous bullet, if you use Python and is unsure which tool to use for creating/deploying dashboards, I suggest reading [this Medium article from Abdishakur](https://medium.com/spatial-data-science/the-best-tools-for-dashboarding-in-python-b22975cb4b83), it gives you a quick and simple overview from the most common options used nowadays.
