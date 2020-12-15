@@ -15,10 +15,11 @@
 > * **Regression**: Predictive ML model to inform rental bike levels based on weather and seasonal information. Learn how hour, working day, and temperature can affect rental. The actionable insights can help Operations and Marketing teams to drive better business decisions. [Click here](https://doreto-regression.herokuapp.com)
 > * **Binary Classification**: Predictive ML model to classify a breast mass sample diagnosis as malignant or benign. Learn how the main features affect malignant/benign diagnostic; and check how the system is able to detect when input data is in a dubious range; helping the user to make more educated decision. [Click here](https://doreto-binary-clf.herokuapp.com/)
 > * **Multiclass Classification**: Data driven decision for effective pricing strategy: how to determine the price range for a new mobile brand supplier? What are the main variables that affect price range and how do they interact? [Click here](https://doreto-multi-clf.herokuapp.com/)
-> * **Clustering**: Prescriptive ML model to segment your customer base and identify which customers are more likely to churn. Check out each cluster profile; which variables are the most relevant and what makes a customer to churn . That can help Marketing and Sales teams to set more effective strategies to increase customer retention and satisfaction - coming soon
+> * **Clustering**: Prescriptive ML model to segment your customer base and identify which customers are more likely to churn. Check out each cluster profile; which variables are the most relevant and what makes a customer to churn . That can help Marketing and Sales teams to set more effective strategies to increase customer retention and satisfaction. [Click here](https://doreto-cluster.herokuapp.com/)
 > * **Time Series**: coming soon 
 > * **Recommender Systems**: coming soon 
 > * **Association Rules**: coming soon
+> * **Natural Language Processing**: coming soon
 
 * The projects include the following sections: (1) Project Summary: explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect predictions; and (5) ML Experiment Mgt: compares performance among different models.
 
