@@ -20,6 +20,8 @@
 > * **Recommender Systems**: coming soon 
 > * **Association Rules**: coming soon
 > * **Natural Language Processing**: coming soon
+> * **A/B Testing**: coming soon
+
 
 * The projects include the following sections: (1) Project Summary: explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect predictions; and (5) ML Experiment Mgt: compares performance among different models.
 
