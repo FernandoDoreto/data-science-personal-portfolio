@@ -10,7 +10,7 @@
   * It doesn't matter if your technology is based on TensorFlow latest capabilities or on multiple Excel spreadsheets, if it's (1) integrated seamlessly with existing business processes and (2) reveals un-obvious/relevant insights, it worthed. 
 
 ## Projects Portfolio
-* **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so BOOT TIME might take a few seconds.
+* **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
 
 > * **Regression**: Predictive ML model to inform rental bike levels based on weather and seasonal information. Learn how hour, working day, and temperature can affect rental. The actionable insights can help Operations and Marketing teams to drive better business decisions. [Click here](https://doreto-regression.herokuapp.com)
 > * **Binary Classification**: Predictive ML model to classify a breast mass sample diagnosis as malignant or benign. Learn how the main features affect malignant/benign diagnostic; and check how the system is able to detect when input data is in a dubious range; helping the user to make more educated decision. [Click here](https://doreto-binary-clf.herokuapp.com/)
