@@ -26,7 +26,7 @@
 * The projects include the following sections: (1) Project Summary: explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect predictions; and (5) ML Experiment Mgt: compares performance among different models.
 
 ## Recommended (free) materials for Data Science
-* [Google Education](https://ai.google/education/) - I found the courses very useful and easy to follow. I specially suggest Introd to ML Problem Framing course.
+* [Google AI Education](https://ai.google/education/) - I found the courses very useful and easy to follow. I specially suggest Introd to ML Problem Framing course.
 * [StatQuest YouTube Channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - If you really want to understand (and apply) statistics and ML concepts, go there.
 * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/) - It shows not only technical aspects, but also touches project mgt, product design and insights on how to succeed on AI systems. At the end, guest lectures presentations showcase practical examples in the field.
 * All Udemy courses from [Soledad G.](https://www.udemy.com/user/soledad-galli/) and [Christopher S.](https://www.udemy.com/user/christopher-samiullah/) - It's not free of charge, but Udemy offers discounts very often. It gave me the practical foundation for ML systems (create and deploy ML pipeline, unit test, logging, versioning, monitoring), it helps you to understand how to go from Research (Jupyter notebook) to Production. It worths to visit their [site](https://www.trainindata.com/) as well, great practical content. 
