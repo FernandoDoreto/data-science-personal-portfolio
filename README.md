@@ -4,10 +4,14 @@ Here you're going to find:
 > * My latest **personal projects** and
 > * Free content recommendation to **learn and apply Data Science**.
 
+--- 
+
 ### Professional Summary
 * I have 10+ years of experience, combined, in Data Analytics, B2B Sales, and Software Development. Feel free to reach me at [LinkedIn](https://www.linkedin.com/in/fernandodoreto/).
 * Data Science for me is about **combining business experience and technology**. 
   * It doesn’t matter if your technology is based on TensorFlow or on multiple Excel spreadsheets, if it’s (1) integrated seamlessly with existing business processes and (2) reveals un-obvious/relevant insights, it has practical value.
+
+---
 
 ### Projects Portfolio
 * **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
@@ -24,6 +28,8 @@ Here you're going to find:
 
 
 * The projects include the following sections: (1) Project Summary: explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect predictions; and (5) ML Experiment Mgt: compares performance among different models.
+
+---
 
 ### Free content recommendation for Data Science
 * [Google AI Education](https://ai.google/education/) - I found the courses very useful and easy to follow. I specially suggest Introd to ML Problem Framing course.
