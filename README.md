@@ -8,6 +8,8 @@ Here you're going to find:
 
 ### Professional Summary
 I have 10+ years of experience, combined, in Data Analytics, B2B Sales, and Software Development. Feel free to reach me at [LinkedIn](https://www.linkedin.com/in/fernandodoreto/).
+
+
 Data Science for me is about **combining business experience and technology**. 
   * It doesn’t matter if your technology is based on TensorFlow or on multiple Excel spreadsheets, if it’s (1) integrated seamlessly with existing business processes and (2) reveals un-obvious/relevant insights, it has practical value.
 
