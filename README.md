@@ -1,15 +1,15 @@
-#  Welcome to Fernando Doreto's personal portfolio!
+##  Welcome to Fernando Doreto's personal portfolio!
 
-* Here you're going to find:
+Here you're going to find:
 > * My latest **personal projects** and
-> * Recommended (free) materials to **learn and apply Data Science**.
+> * Free content recommendation to **learn and apply Data Science**.
 
-## Professional Summary
-* I have 9-year experience, combined, in Data Analytics, B2B Sales, and Software Development. Feel welcome to reach me at [LinkedIn](https://www.linkedin.com/in/fernandodoreto/).
+### Professional Summary
+* I have 10+ years of experience, combined, in Data Analytics, B2B Sales, and Software Development. Feel free to reach me at [LinkedIn](https://www.linkedin.com/in/fernandodoreto/).
 * Data Science for me is about **combining business experience and technology**. 
-  * It doesn't matter if your technology is based on TensorFlow latest capabilities or on multiple Excel spreadsheets, if it's (1) integrated seamlessly with existing business processes and (2) reveals un-obvious/relevant insights, it worthed. 
+  * It doesn’t matter if your technology is based on TensorFlow or on multiple Excel spreadsheets, if it’s (1) integrated seamlessly with existing business processes and (2) reveals un-obvious/relevant insights, it has practical value.
 
-## Projects Portfolio
+### Projects Portfolio
 * **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
 
 > * **Regression**: Predictive ML model to inform rental bike levels based on weather and seasonal information. Learn how hour, working day, and temperature can affect rental. The actionable insights can help Operations and Marketing teams to drive better business decisions. [Click here](https://doreto-regression.herokuapp.com)
@@ -25,7 +25,7 @@
 
 * The projects include the following sections: (1) Project Summary: explains the dataset, describes the problem and presents business recommendations; (2) Exploratory Data Analysis; (3) ML pipeline; (4) ML Evaluation and Explanation: understands model performance and how features affect predictions; and (5) ML Experiment Mgt: compares performance among different models.
 
-## Recommended (free) materials for Data Science
+### Free content recommendation for Data Science
 * [Google AI Education](https://ai.google/education/) - I found the courses very useful and easy to follow. I specially suggest Introd to ML Problem Framing course.
 * [StatQuest YouTube Channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - If you really want to understand (and apply) statistics and ML concepts, go there.
 * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/) - It shows not only technical aspects, but also touches project mgt, product design and insights on how to succeed on AI systems. At the end, guest lectures presentations showcase practical examples in the field.
