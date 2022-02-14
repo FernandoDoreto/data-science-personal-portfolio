@@ -19,11 +19,15 @@ Data Science for me is about **combining business experience and technology**.
 > * **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
 
 * **ML API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing solution. The API has an endpoint for prediction. The [API](https://doreto-ml-api.herokuapp.com/) was made with Django Rest Framework and deployed at Heroku. This project explains the ML Business Case behind the project and requests data from the API. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py)
+
 * **Regression**: Let's explore patterns on rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and will predict rental bike levels, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-rental-bikes/main/app.py)
 
 * **Binary Classification**: Predictive ML model to classify a breast mass sample diagnosis as malignant or benign. Learn how the main features affect malignant/benign diagnostic; and check how the system is able to detect when input data is in a dubious range; helping the user to make more educated decision. [Click here](https://doreto-binary-clf.herokuapp.com/)
+
 * **Clustering**: Prescriptive ML model to segment your customer base and identify which customers are more likely to churn. Check out each cluster profile; which variables are the most relevant and what makes a customer to churn . That can help Marketing and Sales teams to set more effective strategies to increase customer retention and satisfaction. [Click here](https://doreto-cluster.herokuapp.com/)
+
 * **Time Series**: Air pollution levels affect dramatically population health and may block or promote cities' development. This study considers air pollution records in Beijing, China from 2010 to 2015 and understand air polutiion patterns; assess which variables impact the most and present a model that can inform for the next 7 days air pollution levels and trend. [Click here](https://doreto-time-series.herokuapp.com/) 
+
 * **Recommender Systems**: coming soon 
 * **Natural Language Processing**: coming soon
 * **Image Recognition**: coming soon
