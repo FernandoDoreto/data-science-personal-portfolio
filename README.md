@@ -16,9 +16,9 @@ Data Science for me is about **combining business experience and technology**.
 ---
 
 ### Projects Portfolio
-> * **NOTES**: (1) when requested, both username and password are: **doreto**. (2) Apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
+> * **NOTES**: (1) if requested, both username and password are: **doreto**. (2) Some apps are deployed in free Heroku tier, so **BOOT TIME** might take a few seconds.
 
-* **ML API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing solution. The API has an endpoint for prediction. The [API](https://doreto-ml-api.herokuapp.com/) was made with Django Rest Framework and deployed at Heroku. This project explains the ML Business Case behind the project and requests data from the API. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py)
+* **ML API**: Once you found an ML model that meets your project's requirements, you will likely deploy an API that will be embedded into an existing solution. This API shall have an endpoint for prediction. In this project, the [API](https://doreto-ml-api.herokuapp.com/) is developed with Django Rest Framework and deployed at Heroku. This project explains the ML Business Case behind the project, and monitor the data (inputs and predictions) from the API. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-ml-api/main/app.py)
 
 * **Regression**: Let's explore patterns on rental bikes levels based on weather and seasonal information (temperature, working day, season, humidity etc) and will predict rental bike levels, so the Operations team can have more accurate information when reloading bike stations. [Click here](https://share.streamlit.io/fernandorocha88/portfolio-rental-bikes/main/app.py)
 
@@ -28,9 +28,9 @@ Data Science for me is about **combining business experience and technology**.
 
 * **Time Series**: Air pollution levels affect dramatically population health and may block or promote cities' development. This study considers air pollution records in Beijing, China from 2010 to 2015 and understand air polutiion patterns; assess which variables impact the most and present a model that can inform for the next 7 days air pollution levels and trend. [Click here](https://doreto-time-series.herokuapp.com/) 
 
-* **Recommender Systems**: coming soon 
 * **Natural Language Processing**: coming soon
 * **Image Recognition**: coming soon
+* * **Recommender Systems**: coming soon 
 
 
 
