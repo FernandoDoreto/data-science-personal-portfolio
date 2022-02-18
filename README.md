@@ -26,11 +26,10 @@ Data Science for me is about **combining business experience and technology**.
 
 * **Clustering**: Prescriptive ML model to segment your customer base and identify which customers are more likely to churn. Check out each cluster profile; which variables are the most relevant and what makes a customer to churn . That can help Marketing and Sales teams to set more effective strategies to increase customer retention and satisfaction. [Click here](https://doreto-cluster.herokuapp.com/)
 
-* **Time Series**: Air pollution levels affect dramatically population health and may block or promote cities' development. This study considers air pollution records in Beijing, China from 2010 to 2015 and understand air polutiion patterns; assess which variables impact the most and present a model that can inform for the next 7 days air pollution levels and trend. [Click here](https://doreto-time-series.herokuapp.com/) 
 
 * **Natural Language Processing**: coming soon
 * **Image Recognition**: coming soon
-* * **Recommender Systems**: coming soon 
+* **Recommender Systems**: coming soon 
 
 
 
